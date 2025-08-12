@@ -1,0 +1,9 @@
+# Basic Calculator
+
+A simple Python program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## Features
+- Accepts two numbers from the user
+- Supports four operations: `+`, `-`, `*`, `/`
+- Handles division by zero errors
+- Displays results in a clear format
